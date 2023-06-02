@@ -25,7 +25,7 @@ By refactoring the html and css code, I have provided more structure and include
 
 ## Credits
 
-To complete this assignment, I used activities from Module 1 along with the following resources. 
+To complete this assignment, I used activities from Module 1, 50 min session with tutor for guidance on this challenge, along with the following resources. 
 
 MozDevNet. (2023, March 29). Semantics - MDN web docs glossary: Definitions of web-related terms: MDN. MDN Web Docs Glossary: Definitions of Web-related terms | MDN. https://developer.mozilla.org/en-US/docs/Glossary/Semantics 
 
